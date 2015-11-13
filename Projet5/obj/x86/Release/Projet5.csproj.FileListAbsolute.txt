@@ -1,0 +1,18 @@
+C:\Users\qlecler\documents\visual studio 2010\Projects\Projet5\Projet5\bin\Release\Projet5.exe
+C:\Users\qlecler\documents\visual studio 2010\Projects\Projet5\Projet5\bin\Release\Projet5.pdb
+C:\Users\qlecler\documents\visual studio 2010\Projects\Projet5\Projet5\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\qlecler\documents\visual studio 2010\Projects\Projet5\Projet5\obj\x86\Release\Projet4.Form1.resources
+C:\Users\qlecler\documents\visual studio 2010\Projects\Projet5\Projet5\obj\x86\Release\Projet4.Properties.Resources.resources
+C:\Users\qlecler\documents\visual studio 2010\Projects\Projet5\Projet5\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\qlecler\documents\visual studio 2010\Projects\Projet5\Projet5\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\qlecler\documents\visual studio 2010\Projects\Projet5\Projet5\obj\x86\Release\Projet5.exe
+C:\Users\qlecler\documents\visual studio 2010\Projects\Projet5\Projet5\obj\x86\Release\Projet5.pdb
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\bin\Release\Projet5.exe
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\bin\Release\Projet5.pdb
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Release\Projet5.Form1.resources
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Release\Projet5.Properties.Resources.resources
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Release\Projet5.exe
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Release\Projet5.pdb

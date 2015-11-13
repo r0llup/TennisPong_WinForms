@@ -1,0 +1,35 @@
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\bin\Debug\Projet5.exe
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\bin\Debug\Projet5.pdb
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\Projet5.exe
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\Projet5.pdb
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Debug\Projet5.exe
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Debug\Projet5.pdb
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\bin\Debug\Projet5.exe
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\bin\Debug\Projet5.pdb
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Debug\Projet5.Form1.resources
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Debug\GenerateResource.write.1 (MSI-GX620's conflicted copy 2011-03-29).tlog
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\qlecler\Dropbox\Etudes\2\C#\labo\Projet5\Projet5\obj\x86\Debug\Projet5.Properties.Resources.resources
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\Projet5.Properties.Resources.resources
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\GenerateResource.write.1 (MSI-GX620's conflicted copy 2011-03-29).tlog
+C:\Users\qlecler\Dropbox\SharedFolder\C#\Projet5\Projet5\obj\x86\Debug\Projet5.exe
+C:\Users\qlecler\Dropbox\SharedFolder\C#\Projet5\Projet5\obj\x86\Debug\Projet5.pdb
+C:\Users\qlecler\Dropbox\SharedFolder\C#\Projet5\Projet5\bin\Debug\Projet5.exe
+C:\Users\qlecler\Dropbox\SharedFolder\C#\Projet5\Projet5\bin\Debug\Projet5.pdb
+C:\Users\qlecler\Dropbox\SharedFolder\C#\Projet5\Projet5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\qlecler\Dropbox\SharedFolder\C#\Projet5\Projet5\obj\x86\Debug\Projet5.Form1.resources
+C:\Users\qlecler\Dropbox\SharedFolder\C#\Projet5\Projet5\obj\x86\Debug\Projet5.Properties.Resources.resources
+C:\Users\qlecler\Dropbox\SharedFolder\C#\Projet5\Projet5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\qlecler\Dropbox\SharedFolder\C#\Projet5\Projet5\obj\x86\Debug\GenerateResource.write.1 (MSI-GX620's conflicted copy 2011-03-29).tlog
+C:\Users\qlecler\Dropbox\SharedFolder\C#\Projet5\Projet5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\Projet5.Form2.resources
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\Projet5.AboutForm.resources
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\Projet5.TennisPongForm.resources
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\Projet5.WinForm.resources
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\bin\Debug\Resources\4360__NoiseCollector__ponblipG_5.wav
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\bin\Debug\Resources\4359__NoiseCollector__PongBlipF4.wav

@@ -1,0 +1,9 @@
+C:\Users\qlecler\AppData\Local\Temporary Projects\Projet4\bin\Debug\Projet4.exe
+C:\Users\qlecler\AppData\Local\Temporary Projects\Projet4\bin\Debug\Projet4.pdb
+C:\Users\qlecler\AppData\Local\Temporary Projects\Projet4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\qlecler\AppData\Local\Temporary Projects\Projet4\obj\x86\Debug\Projet4.Form1.resources
+C:\Users\qlecler\AppData\Local\Temporary Projects\Projet4\obj\x86\Debug\Projet4.Properties.Resources.resources
+C:\Users\qlecler\AppData\Local\Temporary Projects\Projet4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\qlecler\AppData\Local\Temporary Projects\Projet4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\qlecler\AppData\Local\Temporary Projects\Projet4\obj\x86\Debug\Projet4.exe
+C:\Users\qlecler\AppData\Local\Temporary Projects\Projet4\obj\x86\Debug\Projet4.pdb

@@ -1,0 +1,79 @@
+Info:
+
+Customize your deb-file with: "sudo human-o2" (Terminal/Konsole) 
+
+KDE-USERS and the deb-file:
+"gnome-terminal" should be installed FIRST!!! (2-3 MB) for have all futures from the first Human-O2.deb-install 
+sudo apt-get install gnome-terminal
+
+
+
+-----------------------------------------------------------------------------------------
+
+Welcome to Human-O2
+
+Human-O2 is an Icon-Set based on Hydroxygen (Oxygen) -Icon-Set. The idea was born when I used the Hydroxygen-Theme on my Ubuntu-desktop, and I thought it would be really great if the Human-Theme would be so complete and wonderful. So I started to create a fusion between both 
+To get an almost perfect Human-feeling I had to modify a lot icons. I also included some icons I draw in the last time, and some icons (free - non commercial) I found in the "world wide web".
+A lot of icons in small sizes were corrected by myself OR for a closer Human-feeling modificated!
+
+So I am glad to present you my result!
+Feel the beauty side of Ubuntu - the Linux-distribution I use and like best ... enjoy 
+
+If you like it, don't forget ---> 
+
+
+
+Installation-Instructions:
+
+ALWAYS BEFORE:
+PURGE OLD INSTALLED HUMANO2-ICONS (Version 1.09 and lower ...) FROM YOUR PACKAGE-MANAGER IF YOU HAD IT INSTALLED ... THAN "sudo rm -r /usr/share/icons/Human-O2" !!! Thank you 
+
+The regular "Human-O2.tar.gz" for all Linux-distributions can be downloaded here on DeviantArt 
+The packages for your Package-Manger (automatic updates) you will find these here above 
+The DEB-Version you can download it directly from here: [link] (Version 1.1.5.1)
+-----------------------------------------------------------------------------------------
+
+Include Human-O2 into your Package-Manager:
+(For ALL deb-based-Linux-distributions !!!) 
+
+
+The packages from Ubuntu PPA are here: [link] 
+
+PGP-Key can be downloaded from here: [link]
+[This Public-Key is a authorization-Key for your Package-Manager like Adept or Synaptic]
+
+OR with your Terminal/Konsole:
+gpg --keyserver keyserver.ubuntu*com --recv-keys 53878C1F && gpg --export -a 53878C1F | sudo apt-key add -
+
+!!!!!! Important !!!!!! * = . (point) 
+
+
+Finally look for "human-o2-icons" ... 
+-----------------------------------------------------------------------------------------
+
+What is better with the Deb-Version:
+
+- Icons are, in every moment, easy to change ...
+Type "sudo human-o2" in your Terminal and follow the options-menu. Session Log-Out/Log-In or reboot recommended
+
+- Enjoy your Human-O2-Icons as root, too.
+
+- All Users on your PC can select this Set by choosing it in the Theme-Appearance-Manager.
+
+- Automatic updates with the Package-Version 
+-----------------------------------------------------------------------------------------
+
+
+
+
+Credits to BoddomBeachTerror (Deb-File) and Keba (menu.sh -Script). A special thanks up to them ... they created the installation files and so they helped me my ideas came true 
+
+Many thanks to the Human-Team for their great work, too 
+
+Thanks to narf41 for his supports ... what? I don't say 
+
+Thanks to Ubuntuxer for his supports and the PPA-soulution 
+
+The licences of the "Deb-File" and the "menu.sh -Script" are GPL.
+The licences of the Icons are GPL, CC sa nc, LGPL and many more (copiable and for non commercial use). 
+The licence of the "Human-O2 Collectors-Icon-Set" is GNU/ GPL.

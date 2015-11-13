@@ -1,0 +1,9 @@
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\bin\Debug\Projet5.exe
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\bin\Debug\Projet5.pdb
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\Projet4.Properties.Resources.resources
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\Projet5.exe
+C:\Users\qlecler\Documents\Visual Studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\Projet5.pdb
+C:\Users\qlecler\documents\visual studio 2010\Projects\Projet5\Projet5\obj\x86\Debug\Projet5.Form1.resources
